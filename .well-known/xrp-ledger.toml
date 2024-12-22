@@ -1,0 +1,15 @@
+[[ISSUERS]]
+address = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
+name = "Bullish on XRP"
+
+[[TOKENS]]
+issuers = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
+currency = "Bullish"
+name = "Bullish on XRP"
+desc = "Bullish on XRP (Bullish) is a digital currency on the xrpl"
+icon = "https://bullishtoken.github.io/icons/bullish.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://twitter.com/BullishTokenxrp"
+type = "socialmedia"
+title = "folow on Twitter"
