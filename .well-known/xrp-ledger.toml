@@ -1,13 +1,13 @@
 [[ISSUERS]]
 address = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
-name = "Bullish on XRP"
+name = "Bullish"
 
 [[TOKENS]]
 issuer = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
 currency = "Bullish"
-name = "Bullish on XRP"
+name = "Bullish"
 desc = "Bullish on XRP (Bullish) is a digital currency on the XRPL."
-icon = "https://bullishtoken.github.io/icons/bullish.png"
+icon = "https://bullishxrp.github.io/icons/bullish.png"
 
 [[TOKENS.WEBLINKS]]
 url = "https://twitter.com/BullishTokenxrp"
