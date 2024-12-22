@@ -1,1 +1,1 @@
-# bullishtoken.github.io
+# bullishxrp.github.io
