@@ -9,7 +9,7 @@ name = "Bullish"
 desc = "Bullish on XRP (Bullish) is a digital currency on the XRPL."
 icon = "https://bullishxrp.github.io/icons/bullish.png"
 
-[[TOKEN.WEBLINKS]]
+[[TOKENS.WEBLINKS]]
 url = "https://bullishonxrp.com"
 type = "website"
 title = "Official Website"
