@@ -1,0 +1,15 @@
+[[ISSUERS]]
+address = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
+name = "Bullish"
+
+[[TOKENS]]
+issuer = "rDzDFNxV1SmhdRFJUGu7HBZHN57j8Cx3n9"
+currency = "Bullish"
+name = "Bullish"
+desc = "Bullish on XRP is a digital currency, designed to bring together a Bullish community."
+icon = "https://bullishxrp.github.io/icons/bullish.png"
+
+[[TOKENS.WEBLINKS]]
+url = "https://bullishonxrp.com"
+type = "website"
+title = "official website"
